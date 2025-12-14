@@ -1,2 +1,3 @@
 # BATTLESHIP-non-gui
-classic battleship board game vs computer
+Classic board game of battleships against computer featuring a better approach than (random board hits) ??
+
